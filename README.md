@@ -15,11 +15,7 @@
 - 추상클래스와 인터페이스의 차이
 - Completablefuture
 
-## 자료구조 & 알고리즘
-- [트라이(Trie) 자료구조](https://brunch.co.kr/@springboot/75)
-
-
-## [중요]스프링 기본
+## 스프링 기본
 - [스프링 DI](https://github.com/sieunkr/spring-boot-basic)
 - 스프링 AOP
 - 스프링 MVC
@@ -51,6 +47,9 @@
 
 ## RabbitMQ 심화
 - (1) RabbitMQ 기본
+
+## 자료구조 & 알고리즘
+- [트라이(Trie) 자료구조](https://brunch.co.kr/@springboot/75)
 
 ## Vue.js
 - [Vue.js 스터디(1일차)](https://brunch.co.kr/@springboot/18)
