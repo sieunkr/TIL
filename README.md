@@ -20,7 +20,7 @@
 
 
 ## [중요]스프링 기본
-- 스프링 DI
+- [스프링 DI](https://github.com/sieunkr/spring-boot-basic)
 - 스프링 AOP
 - 스프링 MVC
 
