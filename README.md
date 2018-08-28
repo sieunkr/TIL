@@ -8,8 +8,8 @@
 - 브런치는 별로니깐, 앞으로는 깃헙에 정리할 수 있도록 해보자
 
 ## 자바
-- 람다
-- 제네릭
+- [람다](https://github.com/sieunkr/java-basic/tree/master/lambda)
+- [제네릭](https://github.com/sieunkr/java-basic/blob/master/generic/generic.md)
 - 스트림
 - [컬렉션](https://brunch.co.kr/@springboot/57)
 - 추상클래스와 인터페이스의 차이
