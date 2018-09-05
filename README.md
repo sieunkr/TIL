@@ -30,8 +30,7 @@
 - [Spring Batch, RabbitMQ 연동](https://brunch.co.kr/@springboot/51)
 
 ## TDD
-- [JUnit5 기본](https://github.com/sieunkr/spring-tdd/tree/master/junit5-sample)
-- [JUnit5 스프링 확장](https://github.com/sieunkr/spring-tdd/tree/master/junit5-extension-spring)
+- [JUnit5 in 스프링](https://brunch.co.kr/@springboot/77)
 
 ## 웹서비스 프로그래밍
 - [HTTP 따라잡기(1)](https://brunch.co.kr/@springboot/16)
